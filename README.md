@@ -17,7 +17,7 @@
 ## 🎓 About Me
 I am a recent Computer Science graduate from **Nile University**, Egypt (Class of 2026). As a Full-Stack Developer, I am deeply passionate about building scalable, high-performance systems and modular architectures. 
 
-* 🔭 **I'm currently working on:** [NeuroMeet](https://github.com/anasabdelhakim/neuromeet) (AI-powered e-learning engagement detection) and [Vendra](https://github.com/anasabdelhakim/vendra) (High-performance car marketplace).
+* 🔭 **I'm currently working on:** [NeuroMeet](https://github.com/anasabdelhakim/neuromeet) (AI-powered e-learning engagement detection).
 * 🤝 **I'm looking to collaborate on:** Complex system architecture, performance-driven backend solutions, and open-source software engineering tools.
 * 🌱 **I'm currently learning:** Distributed system design, enterprise-grade performance tuning, and agentic AI development.
 * ⚡ **Fun fact:** I replaced my chess practice with competitive algorithm problem solving (TypeScript) to sharpen my logic for production-level systems.
