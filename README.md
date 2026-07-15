@@ -15,10 +15,11 @@
 ![](https://streak-stats.demolab.com/?user=anasabdelhakim&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anasabdelhakim&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🎓 About Me
-I am a recent Computer Science graduate from **Nile University**, Egypt (Class of 2026). As a Full-Stack Developer, I am deeply passionate about building scalable, high-performance systems and modular architectures. 
 
-* 🔭 **I'm currently working on:** [NeuroMeet](https://github.com/anasabdelhakim/neuromeet) (AI-powered e-learning engagement detection).
+## 🎓 About Me
+Full-Stack Software Engineer with a B.Sc. in Computer Science from **Nile University**, Egypt. I build performant, type-safe web applications using Clean Architecture and the Backend-for-Frontend (BFF) pattern.
+
+* 🔭 **I'm currently working on:** [NeuroMeet](https://github.com/anasabdelhakim/neuromeet-core), a real-time meeting platform with a high-performance NestJS backend and custom WebRTC integration.
 * 🤝 **I'm looking to collaborate on:** Complex system architecture, performance-driven backend solutions, and open-source software engineering tools.
-* 🌱 **I'm currently learning:** Distributed system design, enterprise-grade performance tuning, and agentic AI development.
+* 🌱 **I'm currently learning:** Distributed system design and enterprise-grade performance tuning.
 * ⚡ **Fun fact:** I replaced my chess practice with competitive algorithm problem solving (TypeScript) to sharpen my logic for production-level systems.
